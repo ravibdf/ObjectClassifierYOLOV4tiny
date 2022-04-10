@@ -2,19 +2,9 @@
 
 Implementação de um sistema de classificação de objetos para utilização em um sistema embarcado, utilizado para inferências em novas imagens.
 
-## 🚀 Começando
+## 🚀 Requirements (and how to install dependencies)
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **Implantação** para saber como implantar o projeto.
-
-### 📋 Pré-requisitos
-
-De que coisas você precisa para instalar o software e como instalá-lo?
-
-```
-Dar exemplos
-```
+This step very well documented in the AlexeyAB github(https://github.com/AlexeyAB/darknet#requirements-for-windows-linux-and-macos)
 
 ### 🔧 Instalação
 
